@@ -24,5 +24,5 @@ All metrics like:
  1. R^2
  2. MAE
  3. MSE
- 4. RMSE
+ 4. RMSE  
 You will find inside the notebook.
